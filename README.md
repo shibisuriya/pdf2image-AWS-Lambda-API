@@ -1,5 +1,8 @@
 # pdf2image - AWS Lambda API
+## About:
+A stand alone microservice written in Python3.8 for AWS Lambda to convert pages of a .pdf file into images. This microservice is written with the help of pdf2image.py. pdf2image.py is a Python module that wraps pdftoppm and pdftocairo to convert PDF to a PIL Image object.
 
+## Instructions:
 #### Clone the repository
 ```sh
 git clone https://github.com/shibisuriya/pdf2image-AWS-Lambda-API.git
@@ -15,6 +18,7 @@ Or zip the /src folder manually...
 ![Alt text](/images/8.png?raw=true "Optional Title")
 ![Alt text](/images/9.png?raw=true "Optional Title")
 ![Alt text](/images/10.png?raw=true "Optional Title")
+![Alt text](/images/11.png?raw=true "Optional Title")
 
 ### Upload the generated package.zip file to AWS Lambda
 ![Alt text](/images/1.png?raw=true "Optional Title")
