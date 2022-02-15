@@ -15,7 +15,6 @@ Or zip the /src folder manually...
 ![Alt text](/images/8.png?raw=true "Optional Title")
 ![Alt text](/images/9.png?raw=true "Optional Title")
 ![Alt text](/images/10.png?raw=true "Optional Title")
-![Alt text](/images/11.png?raw=true "Optional Title")
 
 ### Upload the generated package.zip file to AWS Lambda
 ![Alt text](/images/1.png?raw=true "Optional Title")
